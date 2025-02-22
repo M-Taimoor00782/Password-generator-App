@@ -86,7 +86,6 @@ h1 {
 .display {
   display: flex;
   padding: 10px 0px;
-  width: 100%;
   align-items: center;
   position: relative;
 }
